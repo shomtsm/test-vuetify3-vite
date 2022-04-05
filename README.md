@@ -28,13 +28,13 @@ vue --version
 
 # テストインストール
 ```
-npm init @vitejs/app urstudx-vuetify3-vite --template vue
+npm init @vitejs/app test-vuetify3-vite --template vue
 
 ✔ Select a framework: › vue
 ✔ Select a variant: › vue
 ```
 ```
-cd urstudx-vuetify3-vite
+cd test-vuetify3-vite
 vue add vuetify
 
 ? Choose a preset: Vite Preview (Vuetify 3 + Vite)
